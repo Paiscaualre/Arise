@@ -1,0 +1,48 @@
+[15May2025 00:00:19.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O has made the advancement [Monster Hunter]
+[15May2025 00:00:52.967] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-23, y=-45, z=-412}
+[15May2025 00:00:52.968] [Worker-Main-16/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-23, y=-45, z=-416}
+[15May2025 00:01:07.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 has made the advancement [It Belongs in a Museum]
+[15May2025 00:01:23.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O has made the advancement [Isn't It Iron Pick]
+[15May2025 00:04:54.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester has made the advancement [Suit Up]
+[15May2025 00:07:44.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 has made the advancement [Diamonds!]
+[15May2025 00:08:14.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester was slain by Zombie
+[15May2025 00:08:14.373] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mandester lost connection: Disconnected
+[15May2025 00:08:14.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester left the game
+[15May2025 00:08:14.466] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[15May2025 00:08:51.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O has made the advancement [Sweet Dreams]
+[15May2025 00:09:16.840] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Mandester is 88730de1-019f-437d-91ce-dac4e7f59147
+[15May2025 00:09:21.178] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mandester[/127.59.157.143:48399] logged in with entity id 36952 at (996.8209709019275, 64.41999998688698, -2771.8924504362876)
+[15May2025 00:09:21.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester joined the game
+[15May2025 00:09:21.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 has made the advancement [Sweet Dreams]
+[15May2025 00:12:02.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O has made the advancement [Stone Age]
+[15May2025 00:13:22.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O was slain by Skeleton
+[15May2025 00:13:41.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O has made the advancement [Ice Bucket Challenge]
+[15May2025 00:15:41.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O was slain by Skeleton
+[15May2025 00:16:24.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 has made the advancement [Suit Up]
+[15May2025 00:18:21.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 fell off a ladder
+[15May2025 00:21:31.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 has made the advancement [Monster Hunter]
+[15May2025 00:23:34.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Set own game mode to Creative Mode]
+[15May2025 00:24:28.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Set own game mode to Survival Mode]
+[15May2025 00:24:38.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Set own game mode to Creative Mode]
+[15May2025 00:24:43.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O has made the advancement [Take Aim]
+[15May2025 00:24:49.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mandester: Set own game mode to Survival Mode]
+[15May2025 00:26:33.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O has made the advancement [Diamonds!]
+[15May2025 00:26:53.075] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mandester lost connection: Timed out
+[15May2025 00:26:53.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mandester left the game
+[15May2025 00:26:54.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O was slain by Skeleton
+[15May2025 00:27:01.254] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JARAX23 lost connection: Timed out
+[15May2025 00:27:01.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JARAX23 left the game
+[15May2025 00:27:01.337] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YamadaH2O lost connection: Timed out
+[15May2025 00:27:01.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YamadaH2O left the game
+[15May2025 00:28:05.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[15May2025 00:28:05.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[15May2025 00:28:05.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[15May2025 00:28:05.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[15May2025 00:28:05.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15May2025 00:28:06.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15May2025 00:28:06.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15May2025 00:28:06.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15May2025 00:28:06.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15May2025 00:28:06.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15May2025 00:28:06.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15May2025 00:28:06.646] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
